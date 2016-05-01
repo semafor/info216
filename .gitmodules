@@ -1,0 +1,3 @@
+[submodule "Spacelog"]
+	path = Spacelog
+	url = git@github.com:semafor/Spacelog.git

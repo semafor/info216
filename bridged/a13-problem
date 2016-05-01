@@ -1,0 +1,1375 @@
+[02:07:55:20]
+CMP: I believe we've had a problem here.
+
+[02:07:55:28]
+CC:  This is Houston. Say again, please.
+
+[02:07:55:35]
+_labels : {"Key line": null}
+CDR: Houston, we've had a problem. We've had a MAIN B BUS UNDERVOLT.
+
+[02:07:55:42]
+CC:  Roger. MAIN B UNDERVOLT.
+
+[02:07:55:58]
+CC:  Okay, stand by, 13. We're looking at it.
+
+[02:07:56:10]
+LMP: Okay. Right now, Houston, the voltage is - is
+     looking good. And we had a pretty large bang
+     associated with the CAUTION AND WARNING there.
+     And as I recall, MAIN B was the one that had had
+     an amp spike on it once before.
+
+[02:07:56:40]
+CC:  Roger, Fred.
+
+[02:07:56:54]
+_page : 168
+_tape : Tape 36/14
+LMP: In the interim here, we're starting to go ahead
+     and button up the tunnel again.
+
+[02:07:57:01]
+CC:  Roger.
+
+[02:07:57:04]
+LMP: Yes. That jolt must have rocked the sensor on -
+     see now - O<sub>2</sub> QUANTITY 2. It - was oscillating
+     down around 20 to 60 percent. Now it's fullscale high again.
+
+[02:07:57:22]
+CC:  Roger.
+
+[02:07:57:30]
+CDR: And, Houston, we had a RESTART on our computer
+     and we had a [glossary:PGNCS] light and the RESTART RESET.
+
+[02:07:57:37]
+CC:  Roger. RESTART and a [glossary:PGNCS] light. RESET on a
+     [glossary:PGNCS], RESET - -
+
+[02:07:57:44]
+CDR: Okay. And we're looking at our S - SERVICE
+     MODULE [glossary:RCS] HELIUM 1. We have - B is barber poled
+     and D is barber poled, HELIUM 2, D is barber
+     pole, and SECONDARY PROPELLANTS, I have A and C
+     barber pole. [glossary:BMAG] temperatures?
+
+[02:07:58:07]
+LMP: Okay, AC 2 is showing zip. I'm going to try to
+     reconfigure on that, Jack.
+
+[02:07:58:13]
+CC:  Roger.
+
+[02:07:58:25]
+LMP: Yes. We got a MAIN BUS A UNDERVOLT now, too,
+     showing.
+
+[02:07:58:29]
+CC:  MAIN A UNDERVOLT.
+
+[02:07:58:33]
+LMP: It's reading about 25-1/2, MAIN B is reading zip
+     right now.
+
+[02:07:59:33]
+CDR: And, Houston, Odyssey.
+
+[02:07:59:38]
+CC:  Stand by 1, Jim.
+
+[02:08:00:35]
+CC:  13, Houston. We'd like you to attempt to reconnect
+     fuel cell 1 to MAIN A and fuel cell 3 to MAIN B. Verify
+     that quad Delta is open.
+
+[02:08:00:53]
+LMP: Okay, Houston. I'm showing - I tried to reset
+     and fuel cell 1 and 3 are both showing gray flags,
+     but they are both showing zip on the flows.
+
+[02:08:01:08]
+CC:  We copy.
+
+[02:08:03:17]
+LMP: Okay, Houston. Are you still reading 13?
+
+[02:08:03:20]
+_page : 169
+_tape : Tape 36/15
+CC:  That's affirmative. We're reading you. We're
+     trying to come up with some good ideas here for you.
+
+[02:08:03:29]
+LMP: Okay. Let me give you some reading ... in the
+     interim to help MAIN A voltage, Jack. I've got BUS TIE AC on.
+
+[02:08:03:37]
+CC:  Say again, Fred.
+
+[02:08:03:42]
+LMP: In the interim, to help out MAIN A voltage, I've
+     got MAIN BUS TIE BAT AC on. Or would you rather
+     accept the 25 volts we are seeing on MAIN A?
+
+[02:08:03:52]
+CC:  Okay. BUS TIE AC on.
+
+[02:08:04:09]
+CC:  13, Houston. We need OMNI Charlie, please.
+
+[02:08:04:19]
+LMP: You got it.
+
+[02:08:05:32]
+CC:  13, Houston. We'd like you to verify couple of
+     readings for us. We would like the nitrogen
+     pressure on fuel cell 1. We need the oxygen pressure on fuel cell 2.
+
+[02:08:05:46]
+LMP: Okay. Nitrogen on 1 and oxygen on 2. Is that correct?
+
+[02:08:05:50]
+CC:  Negative. Oxygen on 3.
+
+[02:08:05:54]
+LMP: Okay.
+
+[02:08:06:24]
+LMP: Okay. The systems test 1-A says zip.
+
+[02:08:06:44]
+LMP: And 2 Baker, which is 3 oxygen, says 0.6.
+
+[02:08:06:50]
+CC:  2 Baker says 0.6, and say again the other one.
+
+[02:08:06:57]
+LMP: Fuel cell 1 nitrogen reads zero.
+
+[02:08:07:01]
+CC:  Roger. Zero.
+
+[02:08:08:47]
+CC:  13, Houston. We'd like you to open circuit fuel
+     cell 1; leave 2 and 3 as is.
+
+[02:08:08:55]
+LMP: Okay. I'll get to work on that.
+
+[02:08:08:57]
+CDR: And, Jack, our O<sub>2</sub> quantity number 2 tank is
+     reading zero. Did you get that?
+
+[02:08:09:04]
+CC:  O<sub>2</sub> QUANTITY number 2 is zero.
+
+[02:08:09:07]
+_page : 170
+_tape : Tape 36/16
+CDR: That's AC, okay. Yes, that's good AC and it
+     looks to me, looking out the hatch, that we are
+     venting something. We are venting something out
+     into the - into space.
+
+[02:08:09:22]
+CC:  Roger. We copy your venting.
+
+[02:08:09:29]
+CDR: It's a gas of some sort.
+
+[02:08:09:49]
+LMP: Okay. Fuel cell 1, you just wanted it off the
+     line now, Jack, is that right?
+
+[02:08:09:52]
+CC:  We just wanted you to open the circuit on fuel
+     cell 1.
+
+[02:08:09:58]
+LMP: Okay. She's off the line.
+
+[02:08:12:47]
+CC:  13, Houston. We see you getting close to gimbal
+     lock there. We'd like you to bring up all quad Cs
+     on MAIN A, quad C-1, C-2, C-3, C-4 on MAIN A, and
+     also bring B-3 and B-4 up on MAIN A.
+
+[02:08:13:14]
+CC:  13, Houston. Do you read?
+
+[02:08:13:20]
+LMP: Yes. We got it.
+
+[02:08:13:21]
+CDR: Affirm.
+
+[02:08:13:22]
+CC:  Okay. Can you tell us anything about the venting,
+     where it is coming from, what window you see it at.
+
+[02:08:13:30]
+LMP: It's coming out of window 1, right now, Jack, and
+     could you give me the thrusters again?
+
+[02:08:13:35]
+CC:  Okay, the thrusters - -
+
+[02:08:13:37]
+LMP: What buses?
+
+[02:08:13:38]
+CC:  We'd like - on MAIN A, we'd like Charlie 1, 2,
+     3, and 4. Also Bravo 3 and 4 on MAIN A.
+
+[02:08:13:52]
+LMP: Okay. Got it.
+
+[02:08:14:42]
+CC:  13, we need OMNI Bravo.
+
+[02:08:14:46]
+_extra : END OF TAPE
+LMP: OMNI Bravo.
+
+[02:08:16:08]
+_page : 171
+_tape : Tape 37/1
+CC:  Okay, 13; this is Houston. We'd like you to go
+     to your G&C checklist, the pink pages, 1-5. Do
+     powerdown until we get a Delta of 10 amps. Over.
+
+[02:08:16:21]
+LMP: All right. Roger.
+
+[02:08:17:03]
+CDR: Okay, Jack, say again that - ... for the powerdown; it's not in the pink pages, the 1-5.
+
+[02:08:17:10]
+CC:  Okay. We'd like you to go down that powerdown
+     procedure until you get a Delta of 10 amps. Over.
+
+[02:08:17:21]
+CDR: Roger. ...
+
+[02:08:17:50]
+CC:  13, Houston. Did you copy our powerdown request?
+
+[02:08:17:57]
+CMP: Roger, Jack. We're - yes, we're doing it right now.
+
+[02:08:17:59]
+CDR: Where did you say that was located, Jack?
+
+[02:08:18:08]
+CC:  That's in your systems checklist, page 1-5.
+
+[02:08:18:26]
+CC:  And, 13, you might also check for those pages in
+     your launch checklist. They're emergency pages;
+     pink pages, 1-5, and we'd like you to power
+     down until you get - -
+
+[02:08:18:37]
+CMP: Okay. That was in the launch checklist, Jack.
+
+[02:08:18:42]
+CC:  Roger. Power down until you get an amperage of
+     10 amps less than what you got now. Over.
+
+[02:08:18:50]
+CDR: Okay.
+
+[02:08:22:06]
+LMP: Okay. Jack. Are you happy with the amps we
+     have now?
+
+[02:08:22:10]
+CC:  Stand by 1, Fred.
+
+[02:08:22:15]
+CMP: Okay, Jack, and on this page 1-5, we proceeded
+     right down the list, all the way down; we're
+     right now at [glossary:BMAG] number 2 is in WARM UP.
+
+[02:08:22:26]
+CC:  Roger. We copy [glossary:BMAG] 2 in WARM UP. We'll follow
+     you through.
+
+[02:08:22:31]
+_page : 172
+_tape : Tape 37/2
+CMP: Okay, and something is giving us a reach, Jack,
+     both in pitch and roll, so I'm suspecting that
+     maybe it's whatever it is that's venting back
+     there. I've had to use DIRECT in order to
+     stabilize this, and as soon as I do, we're
+     starting to pick up rates again. Can you pick
+     up any jets firing?
+
+[02:08:22:54]
+CC:  Stand by. What direction are your rates in,
+     Jack?
+
+[02:08:23:06]
+CMP: It's negative pitch and negative roll.
+
+[02:08:23:12]
+CC:  Roger.
+
+[02:08:24:42]
+CC:  13, Houston. We need to get some more instrumentation up. We'd like you to put INVERTER 1 on
+     both AC BUSES. Over.
+
+[02:08:24:53]
+LMP: Okay. Okay, you got INVERTER 1 on both AC
+     BUSES now. And Jack, one of the items that
+     we turned off was the - all the fuel cell pumps.
+     Okay, and you might let us know when fuel cell 2
+     needs its pump back; we ought to take care of
+     that guy.
+
+[02:08:25:37]
+CC:  Roger. Okay, Fred, we want FUEL CELL 2 PUMPS
+     to AC1, please.
+
+[02:08:25:55]
+CDR: FUEL CELL 2 to AC1. Roger.
+
+[02:08:26:00]
+LMP: Okay, it's on AC1.
+
+[02:08:27:48]
+CC:  OMNI Charlie, please, 13.
+
+[02:08:27:52]
+CDR: OMNI Charlie.
+
+[02:08:28:06]
+CC:  Okay, 13. We've got lots and lots of people
+     working on this; we'll give you some dope as soon
+     as we have it, and you'll be the first one to
+     know.
+
+[02:08:28:19]
+CMP: Oh, thank you.
+
+[02:08:28:29]
+LMP: Okay, Jack, and the weird configuration we're
+     sitting in now is we have the hatch installed,
+     we still have the probe and drogue inside the
+     command module, and we're going to stay in this
+     situation until you - kind of give us an okay
+     to reinstall the probe and drogue.
+
+[02:08:28:47]
+_page : 173
+_tape : Tape 37/3
+CC:  Roger. We'll give you an answer.
+
+[02:08:28:48]
+LMP: Or, if necessary, to use the [glossary:LM] consumables.
+
+[02:08:28:52]
+CC:  Roger.
+
+[02:08:32:11]
+CC:  13, we'd like to have you put thruster Alfa 3
+     on MAIN A, please.
+
+[02:08:32:19]
+CDR: Alfa 3 on MAIN A.
+
+[02:08:32:24]
+LMP: Okay, Jack, are you monitoring the quad temps in
+     quad A - package temps?
+
+[02:08:32:31]
+CC:  Affirmative.
+
+[02:08:33:37]
+CC:  13, this is Houston. We'd like to power down
+     just a little bit more, so let's get [glossary:BMAG] 2 OFF;
+     and make sure your lights are down. Over.
+
+[02:08:33:49]
+CDR: Okay. The lights are down, and [glossary:BMAG] 2's going
+     from STANDBY to OFF.
+
+[02:08:34:27]
+CC:  13, Houston - -
+
+[02:08:34:28]
+CMP: Okay, Jack, now I've got a rate -
+
+[02:08:34:29]
+CC:  - - we'd like you to open circuit fuel cell 3.
+
+[02:08:34:36]
+CMP: Open circuit fuel cell 3.
+
+[02:08:34:37]
+CC:  Go ahead, Jack.
+
+[02:08:34:46]
+CMP: Okay, fuel cell 3 is off the line now.
+
+[02:08:35:16]
+CC:  And 13, Houston. We'd like you to turn all your
+     Bravo thrusters OFF; and put all your Delta
+     thrusters on MAIN A, please.
+
+[02:08:35:26]
+CDR: All Delta thrusters on MAIN A and all Bravo
+     thrusters OFF. Roger.
+
+[02:08:35:55]
+CC:  13, Houston. Turn BATTERY A OFF - -
+
+[02:08:35:56]
+CDR: Okay, Jack, ...
+
+[02:08:35:57]
+SC:  ...
+
+[02:08:36:01]
+CMP: That's right; we were pulling current all the
+     time.
+
+[02:08:36:02]
+_page : 174
+_tape : Tape 37/4
+CDR: BATTERY A OFF. Roger.
+
+[02:08:36:05]
+CMP: Now you're ... up.
+
+[02:08:36:07]
+CDR: I'm transmitting. I don't have any current now.
+
+[02:08:36:15]
+CMP: Hey, it's off - it's off. They - they killed
+     the bus completely now.
+
+[02:08:37:07]
+CC:  13, Houston. We'd like you to isolate your O<sub>2</sub>
+     surge tank. Over.
+
+[02:08:37:19]
+CMP: Surge tank off now, Jack? Okay, Jack, are you
+     copying - O<sub>2</sub> tank 1 cryo pressure?
+
+[02:08:37:30]
+CC:  That's affirmative. And we're trying to get
+     power to that tank. Stand by; we're working on it.
+
+[02:08:37:38]
+CMP: Okay.
+
+[02:08:39:05]
+CMP: Okay. We had a - SERVICE MODULE [glossary:RCS] B light,
+     jack, due to package temperature.
+
+[02:08:39:13]
+CC:  SERVICE MODULE [glossary:RCS] B. We copy. No problem.
+
+[02:08:39:21]
+CMP: Let's read you the lights we got on now; CRYO
+     PRESS, FUEL CELL 1, FUEL CELL 3, MAIN BUS B
+     UNDERVOLT, SUIT COMPRESSOR.
+
+[02:08:39:33]
+CC:  Roger, we copy them and we'd like to build up
+     the pressure in O<sub>2</sub> tank 1, so turn the heaters
+     on manually; we'll watch the pressure for you.
+
+[02:08:39:44]
+CMP: Okay, do you want to see - -
+
+[02:08:39:45]
+CC:  Go ahead.
+
+[02:08:39:46]
+CMP: - - We're going to get a MAIN BUS A UNDERVOLT,
+     probably.
+
+[02:08:39:49]
+CC:  Roger. We realize that; we feel we can stand
+     5 more amps on it.
+
+[02:08:39:56]
+CMP: Okay.
+
+[02:08:40:00]
+CDR: Okay, heater on tank 1's ON.
+
+[02:08:41:52]
+CC:  13, Houston. We'd like you to additionally bring
+     on the fans in O<sub>2</sub> tank 1, and we can stand the
+     additional amperage on that.
+
+[02:08:42:03]
+_extra : END OF TAPE
+_page : 175
+_tape : Tape 37/5
+CDR: Okay - bring up the fans on O<sub>2</sub> tank 1.
+
+[02:08:44:32]
+_page : 176
+_tape : Tape 38/1
+CC:  13, Houston. We'd like you to check some circuit
+     breakers on panel 226. CRYO O<sub>2</sub> HEATER number 1
+     MAIN A, and check the three CRYO FAN MOTORS,
+     TANK 1, three phases.
+
+[02:08:44:56]
+LMP: Okay, Jack. 226 is configured just like it should
+     be. I got three REACS breakers and three RAD
+     breakers open. All the rest are closed.
+
+[02:08:45:11]
+CC:  Okay, Fred. Thank you.
+
+[02:08:45:55]
+CMP: Jack, looking outside, the number of particles
+     has diminished greatly, almost ceased now, which
+     indicates maybe what was venting has almost
+     stopped.
+
+[02:08:46:09]
+CC:  Roger, Jack. Thank you. We copy.
+
+[02:08:46:14]
+CMP: I'm still getting some rates in negative pitch,
+     though.
+
+[02:08:46:17]
+CC:  Roger.
+
+[02:08:46:28]
+CC:  And, 13, we'd like to verify that both [glossary:BMAG]s are
+     off, please.
+
+[02:08:46:35]
+CMP: Negative. We just have one [glossary:BMAG]. [glossary:BMAG] number 1
+     is still on.
+
+[02:08:46:43]
+CC:  Okay, Jack. Let's take [glossary:BMAG] 1 off.
+
+[02:08:46:50]
+CMP: Okay. [glossary:BMAG] number 1 off now.
+
+[02:08:48:06]
+CC:  13, this is Houston. We'd like you to give us a
+     survey of your displays on MDCs 1 and 2. Give
+     us gage readings and talkbacks. Over.
+
+[02:08:48:22]
+CDR: Okay. We'll start with display number 1.
+
+[02:08:48:30]
+CMP: Okay, Jack. On MDC 1, there's nothing abnormal.
+     All the rate indicators are zero. Ball number 2
+     is frozen, of course; we lost MAIN B. I've got -
+     Ball number 1 appears to be working normally.
+     Right now I'm sitting at roll 0, pitch 180, and
+     yaw about 13 degrees. I'm going to try and hold
+     0, 180, and 0.
+
+[02:08:49:08]
+_page : 177
+_tape : Tape 38/2
+CDR: Okay, Houston. The center panel - I'm looking at
+     the [glossary:RCS] indicator A. We have a package temperature
+     of about 180. Our helium pressure is 3900. I'm
+     looking at fuel pressure of about 180 and percentage
+     of about, I'd say 85 percent. B is about
+     the same, except that that package pressure is
+     190. On quad C, we're looking about the same,
+     except that the package temperature is 100. On
+     quad D, we're looking at package temperature of
+     160. All other indications are about the same.
+     [glossary:CM] pressure - [glossary:RCS] pressure is looking nominal.
+     Helium pressure's up around 4000. And package
+     temperature is about - a little less than 80 on
+     ring 1 and about the same on ring 2.
+
+[02:08:50:02]
+CDR: And the - talkbacks on the [glossary:SM] [glossary:RCS], I've got
+     HELIUM 1 now are all gray. HELIUM 2 are all
+     gray. PRIMARY PROPELLANT all gray. SECONDARY
+     PROPELLANT, I've got two barber pole, and A is
+     barber pole, B gray, C barber pole, and D gray.
+     Okay. On the [glossary:ECS] RADIATORS, barber pole is gray.
+     On the - On the [glossary:ECS], PRIMARY INDICATOR.
+
+[02:08:50:57]
+LMP: Okay, Jack. Starting at the top. Okay. The
+     CRYO TANKS; H<sub>2</sub> 1 is reading 230 and the same for
+     2. Our O<sub>2</sub> CRYO TANK 1 is - looks like it's barely
+     holding its own at 300. And, CRYO TANK 2 is
+     reading zip. Our quantities: H<sub>2</sub> 1 is reading 73,
+     2, 74. On the O<sub>2</sub> side, we're reading O<sub>2</sub> 1 at
+     quantity, 76; O<sub>2</sub> pegged to full scale high. RAD
+     TEMPs PRIMARY INLET, we're reading about 55; RAD
+     OUT is reading about 30, and the SECONDARY OUTLET
+     is reading - reading 52 degrees. And the EVAP
+     OUT TEMP is 45, STEAM PRESSURE 0.17, and GLYCOL
+     DISCHARGE 48. SUIT COMPRESSOR is reading zip.
+     The ACCUM is reading 30; H<sub>2</sub>O WASTE is reading
+     about 34; POTABLE's reading about 98; SECONDARY
+     RAD INLET is reading about 71; and the RAD OUT
+     is about 30; GLYCOL EVAP TEMP is reading 65,
+     STEAM PRESSURE pegged full scale high; DISCHARGE
+     PRESSURE 9 psi.
+
+[02:08:53:06]
+CC:  Excuse me, Fred; I'd like to butt in here a minute.
+     We'd like to have THRUSTER C-1 off.
+
+[02:08:53:17]
+CDR: C-1 is off.
+
+[02:08:53:18]
+CC:  And proceed - -
+
+[02:08:53:19]
+_page : 178
+_tape : Tape 38/3
+LMP: Okay - -
+
+[02:08:53:20]
+CC: - - my last copy is SECONDARY RAD IN.
+
+[02:08:53:28]
+LMP: Okay. Your SECONDARY RAD IN, I gave to you 70 -
+     about 72 degrees; the RAD OUT is about 30; the
+     GLYCOL EVAP TEMP is reading about 65; STEAM
+     PRESSURE full scale high, GLYCOL DISCHARGE PRESSURE
+     about 9 psi. The ACCUM - SECONDARY ACCUMULATOR
+     is about 30 - 34 percent. Our temperatures:
+     SUITS showing about 52 degrees; CABIN about
+     58 degrees; pressures, SUIT reading 4.1, CABIN
+     at 5. PARTIAL PRESSURE CO<sub>2</sub> is up to little over
+     1, about 1.1. On the [glossary:SPS] side of the house, the
+     temperature is 72 degrees, helium's reading 3500;
+     N<sub>2</sub> A is reading 2300; N<sub>2</sub> B about 2450.
+     And our ullage pressures: FUEL is reading about 165;
+     OXIDIZER 170. Fuel cells: FUEL CELL 1, both
+     CLOSED, they're zip; SKIN TEMP 405 degrees;
+     CONDENSE EXHAUST is lower scale. FUEL CELL 2 -
+     right now we've got an O<sub>2</sub> or an H<sub>2</sub> FLOW reading
+     of 0.13 to 0.14, and the O<sub>2</sub> FLOW is right now
+     pegged full scale high although it has been varying
+     depending on thruster activity which has also
+     given us MAIN BUS A under volts from a steady
+     reading of about 1.1 up to full scale high. The
+     T<sub>SKIN</sub> is about 445 and the CONDENSOR EXHAUST 17,
+     correction, 180. Let's see if you want it on the
+     DC indicator: FUEL CELL 1 is 0 amps; 2 is reading
+     somewhere between 44 and about - oscillating 44 to
+     48 again depending on thruster activity.
+
+[02:08:56:03]
+CC:  Stand by.
+
+[02:08:56:04]
+LMP: - - is 0 amps. Say again, Jack.
+
+[02:08:56:23]
+CDR: Houston, 13.
+
+[02:08:56:55]
+LMP: Hello, Houston; Apollo 13. How do you read?
+
+[02:08:57:07]
+CC:  Okay, 13. This is Houston. It appears to us that
+     we're losing O<sub>2</sub> flow through fuel cell 3. So, we
+     want you to close the REAC valve on fuel cell 3.
+     It looks like fuel cell 1 and 2 are trying to
+     hold up okay. You copy?
+
+[02:08:57:26]
+LMP: Are you saying fuel cell 1 and 2 - 1 and 2 are
+     trying to hold up but we're leaking O<sub>2</sub> out of
+     fuel cell 3? And you want me to shut the REAC
+     valve on fuel cell 3? Did I hear you right?
+
+[02:08:57:40]
+_page : 179
+_tape : Tape 38/4
+CC:  That's affirmative. Close the REAC valve on
+     fuel cell 3.
+
+[02:08:57:48]
+LMP: Okay. I'll go to the SSR page. Do you want me to
+     go through that whole smash for fuel cell shutdown? Is that correct?
+
+[02:08:57:57]
+CC:  Stand by.
+
+[02:08:58:24]
+CC:  Okay, 13. We want you to turn the inline heaters
+     off on fuel cell 1. Then we want you to go
+     through the fuel cell shutdown procedure on fuel cell 3. Read back.
+
+[02:08:58:40]
+CMP: Okay. Shut down the inline heater on fuel cell 1.
+     We're proceeding with the shutdown, special subroutine, for fuel cell 3.
+
+[02:08:58:51]
+CC:  That's affirmative.
+
+[02:08:59:12]
+CC:  13. OMNI Bravo, please.
+
+[02:08:59:54]
+CC:  13, Houston. Over.
+
+[02:08:59:58]
+CMP: Go ahead.
+
+[02:08:59:59]
+CC:  Okay. You got OMNI Bravo and we'd like to have
+     you verify that the tape recorder is off please.
+
+[02:09:00:08]
+CMP: That's verified. Okay, Jack. I'm sitting here
+     with an 0618 showing and I can't get rid of it.
+     Oh, stand by just a - -
+
+[02:09:00:48]
+CDR: Okay. Fuel cell 3 REACs off, Houston.
+
+[02:09:00:52]
+CC:  Roger, Jim. Thank you.
+
+[02:09:01:54]
+CMP: Okay, Jack. Step 2, special subroutine 1 for the
+     fuel cell procedure, has been completed.
+
+[02:09:02:01]
+_extra : END OF TAPE
+CC:  Roger. Thank you.
+
+[02:09:04:29]
+_page : 180
+_tape : Tape 39/1
+CMP: Okay. Jack. I'd like to bring on jet A-4. I've
+     got null on negative pitch control, and - negative
+     pitch control, and right now neither DIRECT or AUTO coils.
+
+[02:09:04:47]
+CC: Okay. You say no pitch in either DIRECT or AUTO?
+     You want to bring on A-4?
+
+[02:09:04:53]
+CMP: Yes. I've got a positive pitch rate and I can't
+     stop it.
+
+[02:09:04:58]
+CC:  Okay.
+
+[02:09:05:08]
+CC:  Okay, Jack. Bring A-4 on; stop the pitch rate.
+
+[02:09:05:14]
+CMP: Okay. That got it.
+
+[02:09:05:35]
+CC:  And, 13, we need OMNI Charlie, please.
+
+[02:09:05:41]
+LMP: OMNI Charlie.
+
+[02:09:05:46]
+CC:  And, Fred, we would like to have you verify fuel
+     cell reactants talkback is barber pole.
+
+[02:09:05:54]
+LMP: That's affirm. I watched it and it went barber
+     pole as I threw the switch.
+
+[02:09:06:01]
+CC:  Roger.
+
+[02:09:08:01]
+CMP: Okay. Jack. Let me give you a thruster configuration right now. Able 1, Charlie 1, Able 2
+     are off. Charlie 2, MAIN A, all the thrusters
+     that I call that are on are on MAIN A. Baker 1
+     off. Dog 1 on, Baker 2 off, Dog 2 on. Able 3,
+     Charlie 3, Able 4, Charlie 4 on. Baker 3 off,
+     Dog 3 on, Baker 4 off, Dog 4 on.
+
+[02:09:09:27]
+CC:  Okay, Jack. That thruster configuration looks okay.
+
+[02:09:09:35]
+CMP: All right. Okay. Do you want some readings from
+     the systems test meter regarding fuel cells?
+
+[02:09:09:45]
+CC:  Stand by 1 on that, Jack. Let me ask the [glossary:EECOM].
+
+[02:09:09:46]
+CMP: We've got some incompatibilities here.
+
+[02:09:10:03]
+CC:  Okay, 13. We'd like to have you give us those
+     systems test readings on fuel cell 1 and 3, please.
+
+[02:09:10:11]
+_page : 181
+_tape : Tape 39/2
+CDR: Okay. 1 and 3 coming up.
+
+[02:09:10:14]
+_comment : "seems like last reading should be 2-B, not 2-D as shown in original transcript -- not changed"
+LMP: Okay. Jack, 1-A is reading, lower scale, 0; 1-B
+     is reading. 3.45. Okay. You only want fuel cells
+     1 and 3. Okay. Ignore that 1-B reading. 1-C is
+     reading 3.4. Now, 1-D is reading 2.4. 2-D is reading 0.25.
+
+[02:09:11:09]
+CC:  Roger, Is that 2 Bravo, Fred?
+
+[02:09:11:15]
+LMP: That's 2 Bravo is reading - oh, about 0.25 to 0.3.
+
+[02:09:11:39]
+LMP: Okay. 2-C is reading 4.1.
+
+[02:09:12:10]
+LMP: And 3-A is reading 4.0.
+
+[02:09:12:15]
+CC:  Roger. 4.0. Say again what it is, please.
+
+[02:09:12:22]
+LMP: 3 Able, 3-A.
+
+[02:09:12:48]
+LMP: 3-B is reading 1.8.
+
+[02:09:12:58]
+LMP: And 3-D is reading 1.95.
+
+[02:09:14:08]
+LMP: And, Houston, 13. O<sub>2</sub> tank pressure number 1 is
+     less than 300 now.
+
+[02:09:14:14]
+CC:  Roger. We're seeing that. We confirm it.
+
+[02:09:15:04]
+CC:  13, Houston. We're going to have to have you go
+     through the shutdown procedure on fuel cell 1.
+     Our O<sub>2</sub> pressure is going down as you note and the
+     temperature confirms it. Did you copy?
+
+[02:09:15:24]
+CMP: Okay. Well, what bus configuration - What main
+     bus do you want powered?
+
+[02:09:15:36]
+CC:  Okay, Jack. We want you to leave the bus configuration as it is. Fuel cell 2 on MAIN A, and
+     we need OMNI Bravo.
+
+[02:09:15:52]
+CMP: Okay, Jack. We're proceeding on the shutdown
+     procedure for fuel cell 1.
+
+[02:09:16:35]
+CC:  And, 13, Houston. We'd like you to isolate the
+     REPRESS package, please.
+
+[02:09:16:42]
+CMP: Okay.
+
+[02:09:16:43]
+CDR: Isolate the REPRESS package. Roger.
+
+[02:09:16:45]
+_page : 182
+_tape : Tape 39/3
+LMP: I can confirm REPRESS package is off.
+
+[02:09:16:48]
+CC:  Roger. So now you've got the REPRESS package
+     and the surge tank isolated. Is that affirm?
+
+[02:09:16:55]
+LMP: That is Charlie.
+
+[02:09:16:59]
+CMP: Okay. Now, this is - We're ready to close the
+     REACs on fuel cell 1; is that right?
+
+[02:09:17:35]
+CC:  Jack, stand by on the fuel - -
+
+[02:09:17:36]
+CMP: On that last - confirmation. Okay.
+
+[02:09:17:41]
+CC:  Roger. We're - We're giving you one last - -
+
+[02:09:17:42]
+CMP: We want to just get one last confirmation.
+
+[02:09:17:45]
+CC:  Okay, Jack. We're getting that last confirmation.
+     Stand by, please.
+
+[02:09:17:51]
+CMP: Okay.
+
+[02:09:18:01]
+CC:  Okay, 13. We verify that we want you to close
+     down - shut down fuel cell 1, close REACs valve.
+
+[02:09:18:10]
+CDR: Roger - -
+
+[02:09:18:11]
+CMP: Okay.
+
+[02:09:18:12]
+CDR: - - fuel cell 1; close the REACs valve.
+
+[02:09:18:19]
+CMP: Fuel - -
+
+[02:09:18:20]
+CDR: REACs valve on fuel cell 1 is closed.
+
+[02:09:18:45]
+CMP: Okay, Jack. I can confirm step 2. The fuel
+     cell shutdown procedure is complete for fuel cell 1.
+
+[02:09:18:55]
+CC:  Roger.
+
+[02:09:19:58]
+CC:  13, we recommend that you enable BD roll in the [glossary:DAP]. Over.
+
+[02:09:20:05]
+CMP: Okay. Will do - -
+
+[02:09:20:06]
+CDR: BD roll in the [glossary:DAP].
+
+[02:09:20:23]
+CC:  13, Houston. We're working on the big dish now,
+     so turn the HIGH GAIN POWER switch off, please.
+
+[02:09:20:32]
+_page : 183
+_tape : Tape 39/4
+LMP: Okay.
+
+[02:09:20:55]
+CMP: Okay, Jack. When we got the loud bang, we got
+     also a restart. Did you copy that? Is - does
+     [glossary:GUIDO] want anything, a [glossary:VERB 74] or anything done
+     with the [glossary:CMC]?
+
+[02:09:21:06]
+CC:  Stand by.
+
+[02:09:21:54]
+CC:  13, Houston. We're ready with a [glossary:VERB 74] now, please.
+
+[02:09:22:05]
+CMP: Coming down at you.
+
+[02:09:23:54]
+CMP: Okay, Jack. It looks like O<sub>2</sub> tank 1 pressure is
+     just a hair over 200.
+
+[02:09:24:02]
+CC:  We confirm that here and the temperature also confirms it.
+
+[02:09:24:09]
+CMP: Okay. Does it look like it's still going down?
+
+[02:09:24:12]
+CC:  It's slowly going to zero, and we're starting to
+     think about the [glossary:LM] lifeboat.
+
+[02:09:24:20]
+CMP: Yes. That's what we're thinking about, too. You
+     want me to do a quick [glossary:P52]? It kind of looks
+     like - We've been talking it over, and it kind
+     of looks like we'd probably aline our plats -
+     [glossary:LM] platform with our platform and then power down
+     the [glossary:CM], and keep the [glossary:LM] powered up doing a [glossary:DPS] -
+     whatever [glossary:DPS] burns you give us?
+
+[02:09:24:54]
+CC:  13, we're not going to concern ourselves at the
+     moment with a [glossary:DPS] burn. It's going to be some
+     time before we'd get to that; but we're working
+     on other procedures to give you, which will allow
+     us to use the [glossary:LM] systems. Over.
+
+[02:09:25:12]
+CMP: Okay. Real fine.
+
+[02:09:26:40]
+CC:  Apollo 13, Houston. We'd like to charge battery A
+     now.
+
+[02:09:26:46]
+CDR: Charge battery A. Roger.
+
+[02:09:27:13]
+CC:  And, Jack, in regard to your question about the
+     [glossary:P52] and [glossary:LM] platform, it's - There's no need to
+     worry about that now. We wouldn't be using the
+     [glossary:LM] platform for - until about 79 hours, so let's
+     go as is on the platform for now. Over.
+
+[02:09:27:30]
+_page : 184
+_tape : Tape 39/5
+CDR: Okay. We understand.
+
+[02:09:27:37]
+CMP: Okay, Jack.
+
+[02:09:30:13]
+CMP: And, Jack, we've turned off the waste dump
+     heater. If you're going to consider dumping
+     any more waste water, we probably ought to do it
+     while the duct is warm there.
+
+[02:09:30:30]
+CC:  Roger. Stand by, Jack.
+
+[02:09:30:34]
+CMP: Okay.
+
+[02:09:30:38]
+CC:  Okay, Jack. Let's keep the water; no need for
+     a dump right now.
+
+[02:09:30:44]
+CMP: All right.
+
+[02:09:32:15]
+CC:  13, Houston. We see the PROP ISOL valve on [glossary:RCS]
+     quad Charlie closed, so we'd like to also disable
+     AUTO [glossary:RCS] feature in quad Charlie.
+
+[02:09:32:30]
+CDR: You want to isolate the AUTO [glossary:RCS] features in
+     quad Charlie?
+
+[02:09:32:33]
+CC:  Affirmative.
+
+[02:09:32:44]
+CDR: Okay, Jack. I didn't plan to reset that quad
+     Charlie DROP ISOL valve. Do you want me to do
+     that? Okay. We just tried it and quad Alfa and
+     Charlie barber poles are showing.
+
+[02:09:33:01]
+CC:  Stand by, Jim.
+
+[02:09:33:03]
+CMP: Okay, Jack. That's the sec - secondary propellant
+     barber poles on Alfa and Charlie.
+
+[02:09:34:47]
+CC:  13, Houston. It won't do any good to try to
+     power the propellant valves on A and C, so we
+     want you to disable the AUTO on [glossary:RCS] Charlie.
+     And we have a procedure for getting power from
+     the [glossary:LM] we'd like you to copy down.
+
+[02:09:35:08]
+CMP: Okay.
+
+[02:09:35:09]
+CDR: Stand by, Jack.
+
+[02:09:35:11]
+CMP: That sounds like good news.
+
+[02:09:36:05]
+LMP: Okay, Jack. About how long is it?
+
+[02:09:36:12]
+_page : 185
+_tape : Tape 39/6
+CC:  It's not a very long procedure, Fred. We figure
+     we've got about 15 minutes' worth of power left
+     in the command module, so we want you to start
+     getting over in the [glossary:LM] and getting some power on
+     that. And, you ready to copy your procedure?
+
+[02:09:36:27]
+LMP: Okay.
+
+[02:09:36:29]
+CC:  Okay. In the [glossary:CSM].
+
+[02:09:36:30]
+LMP: Stand by.
+
+[02:09:36:40]
+LMP: Go ahead.
+
+[02:09:36:41]
+CC:  Okay. In the [glossary:CSM] on panel 5, circuit breakers
+     [glossary:LM] POWER 1 and 2, OPEN. Then [glossary:LM] POWER switch,
+     reset and release. In the [glossary:LM], on panel 11 and
+     panel 16, TRANSLUNAR BUS TIE. Both circuit
+     breakers CLOSE. On panel 16, circuit breaker
+     ASCENT ECA CONTROL, CLOSE. On 16, DESCENT
+     ECA CONTROL, CLOSE. On panel 14, put your
+     BAT 5 NORMAL feed ON. BATs 1, 2, 3, and 4
+     LOW VOLTAGE taps, ON. BAT 5 NORMAL feed,
+     OFF. ASCENT ECA CONTROL, OPEN. You copy?
+
+[02:09:38:08]
+LMP: Stand by 1.
+
+[02:09:38:24]
+LMP: Okay. In the [glossary:CSM], on panel 5, we want CB [glossary:LM]
+     POWER 1 and 2, OPEN. Then the [glossary:LM] POWER switch
+     to reset, release. In the [glossary:LM], panels 11 and 16,
+     X LUNAR BUS TIE breakers closed. On panel 16,
+     the ASCENT ECA CONTROL closed; the DESCENT ECA
+     CONTROL closed. On panel 14, BAT 5 NORMAL feed
+     ON, followed by BATS 1, 2, 3, and 4 LOW VOLTAGE
+     taps ON. Then BAT 5 NORMAL feed OFF. Then
+     ASCENT ECA CONTROL breaker OPEN.
+
+[02:09:38:58]
+CC:  That's a good readback, Fred.
+
+[02:09:39:14]
+CC:  And, 13, Houston. As a final effort here, we
+     would like you to turn on the fans in tank 2.
+     Over.
+
+[02:09:39:23]
+CDR: Roger. Understand. Turn on the fans in tank 2.
+
+[02:09:39:34]
+CDR: You want the O<sub>2</sub> fans in tank 2, Jack?
+
+[02:09:39:38]
+CC:  That's affirmative, Jim.
+
+[02:09:39:45]
+CDR: O<sub>2</sub> tanks - fans in tank 2 are on.
+
+[02:09:39:48]
+_page : 186
+_tape : Tape 39/7
+CC:  Roger.
+
+[02:09:41:31]
+CC:  13, Houston. We'd like you to start making your
+     way over to the [glossary:LM] now.
+
+[02:09:41:38]
+CMP: Fred and Jim are in the [glossary:LM].
+
+[02:09:41:42]
+CC:  Okay, Jack. Thank you.
+
+[02:09:41:47]
+LMP: And, Jack, I got [glossary:LM] power on.
+
+[02:09:42:50]
+CMP: Okay. You still with us, Houston?
+
+[02:09:43:03]
+CMP: Okay, Houston. You read 13?
+
+[02:09:43:06]
+CC:  Reading you loud and clear, Jack. I've got a
+     procedure for - -
+
+[02:09:43:10]
+CMP: Okay.
+
+[02:09:43:11]
+CC:  - - the guys in the [glossary:LM].
+
+[02:09:43:15]
+LMP: You got another one?
+
+[02:09:43:17]
+CC:  I have an activation procedure. I'd like you to
+     copy it down.
+
+[02:09:43:25]
+CDR: How long is it, Jack?
+
+[02:09:43:27]
+CC:  It's just four lines. Go to Activation 1, do
+     step 3. Go to Activation 11, omit step 1. Do
+     Activation 12, and then go to Activation 13 and
+     do step 1. Do you copy?
+
+[02:09:43:54]
+CDR: Okay. Is that Activation 1? Do step 3. Is
+     that correct?
+
+[02:09:43:59]
+CC:  That's affirmative, Jim.
+
+[02:09:44:03]
+CDR: Activation 11, omit step 1, do the rest. Is that
+     correct?
+
+[02:09:44:06]
+CC:  That's affirmative.
+
+[02:09:44:12]
+CDR: Do Activation 12 and Activation 13, step 1.
+_comment: "PDF transcript says 'Do Activation 1 and...' which we believe is obviously wrong, but should check audio when it becomes available."
+
+[02:09:44:14]
+CC:  That's all correct.
+
+[02:09:44:25]
+CMP: Okay, Jack. Pressure in tank 1 is approaching
+     100 psi. What's going to be the symptoms of
+     this fuel cell starting to drop off?
+
+[02:09:44:51]
+_page : 187
+_tape : Tape 39/8
+CC:  Stand by, Jack. We'll get the word on that.
+
+[02:09:44:56]
+CMP: Okay.
+
+[02:09:45:06]
+CC:  And, Jim, when you get to the end of that
+     procedure, we'd also like to have you put the
+     DEMAND REGs to CABIN.
+
+[02:09:45:15]
+CDR: DEMAND REGs to CABIN. Roger.
+
+[02:09:45:31]
+CDR: Jack, was that Activation 1, step 3 only,
+     or all of Activation 1?
+
+[02:09:45:38]
+CC:  That's go all the way down to step 3, Jim.
+
+[02:09:45:44]
+CDR: Activation 1 to step 3. Roger.
+
+[02:09:46:48]
+CDR: Houston, Apollo 13. Never mind.
+
+[02:09:46:54]
+CC:  13, say again, please.
+
+[02:09:46:58]
+CDR: Oh, we were curious about Activation 11 on the VHF.
+
+[02:09:47:04]
+CC:  Omit the VHF.
+
+[02:09:47:05]
+CDR: - - ... Jack. It's got - Okay.
+
+[02:09:48:17]
+CC:  Jack, this is Houston. We want you to keep
+     the [glossary:IMU] up and keep the lights on so you can
+     see in there, and leave battery off - battery A
+     off and, at the appropriate time, we'll put it
+     on MAIN A. And we're going to keep the [glossary:IMU] up
+     so's we can get a coarse aline in the [glossary:LM].
+
+[02:09:48:38]
+CMP: All right. Real good. Right now, we're
+     charging battery A. Do you want to discontinue
+     that?
+
+[02:09:48:46]
+CC:  Discontinue the charge on battery A, Jack.
+
+[02:09:49:22]
+CMP: Okay, Jack. I discontinued charge on battery A.
+     You give me the call and I'll turn BUS TIE AC
+     on.
+
+[02:09:49:32]
+CC:  Roger. And we want you to keep the lights up
+     and the [glossary:IMU] on.
+
+[02:09:49:38]
+CMP: Okay.
+
+[02:09:49:48]
+CC:  And, Jack, we'd like you to leave the COMM
+     configuration as is until we get COMM with the [glossary:LM].
+
+[02:09:49:57]
+_page : 188
+_tape : Tape 39/9
+CMP: Okay.
+
+[02:09:50:08]
+CC:  And, 13, this is Houston. I've got another
+     procedure for the [glossary:LM]. A short one.
+
+[02:09:51:15]
+CDR: Okay. Ready to copy, Jack.
+
+[02:09:51:17]
+CC:  Okay. On panel 11, we'd like you to close
+     the [glossary:LGC] [glossary:DSKY] circuit breaker. Then we want
+     you to go to Activation 25; do steps 1, 2,
+     and 3. Then go to Activation 30, and that
+     will give us a docked [glossary:IMU] coarse aline. Over.
+
+[02:09:51:41]
+CDR: Roger. Panel 11, close [glossary:LGC] circuit breaker.
+     Activation 25, do steps 1, 2, 3, and then do
+     complete Activation 30. Is that correct?
+
+[02:09:51:50]
+CC:  That's affirmative. On panel 11, [glossary:LGC] [glossary:DSKY]
+     circuit breaker closed.
+
+[02:09:53:15]
+CC:  And in the [glossary:LM], let's go to panel 11 and close
+     the SUIT FAN circuit breaker and get suit fan 1 cranked up.
+
+[02:09:53:26]
+CDR: Okay. Panel 11, close SUIT FAN circuit breaker,
+     and we'll get the suit fan cranked up.
+
+[02:09:53:30]
+CC:  That's affirm.
+
+[02:09:53:47]
+CC:  And, Jack, in the [glossary:CSM], go to BYPASS on the
+     radiators and turn your GLYCOL PUMP off.
+
+[02:09:53:56]
+CMP: Okay. Pull the BYPASS; GLYCOL PUMP going off.
+
+[02:09:54:04]
+CC:  Roger.
+
+[02:09:55:42]
+CC:  And, 13, in the [glossary:CSM], we want to verify that all
+     the fuel cell pumps are off, and we want to have
+     you turn off the O<sub>2</sub> fans in the tank 2.
